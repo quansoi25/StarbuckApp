@@ -1,0 +1,124 @@
+{
+    "products": [
+      {
+        "id":1,
+        "name":"Plain Bagel",
+        "price":50,
+        "category":{
+            "id":1,
+            "name":"food"
+        },
+        "food":"bagels"
+      },
+      {
+        "id":2,
+        "name":"Plain Bagel",
+        "price":50,
+        "category":{
+            "id":1,
+            "name":"food"
+        },
+        "food":"bagels"
+      },
+      {
+        "id":3,
+        "name":"Plain Bagel",
+        "price":50,
+        "category":{
+            "id":1,
+            "name":"food"
+        },
+        "food":"bagels"
+      },
+      {
+        "id":4,
+        "name":"Fox Cake Pop",
+        "price":50,
+        "category":{
+            "id":1,
+            "name":"food"
+        },
+        "food":"cakepops"
+      }
+      ,
+      {
+        "id":5,
+        "name":"Unicorn Cake Pop",
+        "price":50,
+        "category":{
+            "id":1,
+            "name":"food"
+        },
+        "food":"cakepops"
+      }
+      ,
+      {
+        "id":6,
+        "name":"Star Drink",
+        "price":50,
+        "category":{
+            "id":1,
+            "name":"food"
+        },
+        "food":"cakepops"
+      },{
+        "id":7,
+        "name":"Star Drink",
+        "price":50,
+        "category":{
+            "id":2,
+            "name":"drink"
+        },
+        "food":"colddrink"
+      },
+      {
+        "id":8,
+        "name":"Star Drink",
+        "price":50,
+        "category":{
+            "id":2,
+            "name":"drink"
+        },
+        "food":"colddrink"
+      },{
+        "id":9,
+        "name":"Star Drink",
+        "price":50,
+        "category":{
+            "id":2,
+            "name":"drink"
+        },
+        "food":"colddrink"
+      },{
+        "id":10,
+        "name":"Americano",
+        "price":50,
+        "category":{
+            "id":2,
+            "name":"drink"
+        },
+        "food":"Hot Coffees"
+      },
+      {
+        "id":11,
+        "name":"Americano",
+        "price":50,
+        "category":{
+            "id":2,
+            "name":"drink"
+        },
+        "food":"Hot Coffees"
+      },
+      {
+        "id":12,
+        "name":"Americano",
+        "price":50,
+        "category":{
+            "id":2,
+            "name":"drink"
+        },
+        "food":"Hot Coffees"
+      }
+    ]
+    
+  }
